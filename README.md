@@ -1,2 +1,11 @@
-# hello-world
-Jast another reposlitory
+
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
+
